@@ -11,7 +11,6 @@ import React from 'react';
 //     </div>
 //   );
 // }
-
 const englishContent = "Hello";
 const spanContent = "Hola";
 const axios = require('axios');
